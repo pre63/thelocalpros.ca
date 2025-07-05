@@ -3,7 +3,7 @@
 Welcome to **The Local Pros**, your trusted moving company in Vancouver, BC. Our single-page website makes it easy to explore our services and request a free quote for your next move.
 
 🔗 **Visit us**: [The Local Pros](https://thelocalpros.ca)  
-📞 **Call us**: [+1 778-658-6797](tel:+17786586797)  
+📞 **Call us**: [+1 778-200-0082](tel:+17782000082)  
 📧 **Email us**: [info@thelocalpros.ca](mailto:info@thelocalpros.ca)
 
 ## Our Moving Services
@@ -20,7 +20,7 @@ From West Vancouver house moves to North Vancouver retirement homes or Vancouver
 
 ## Get Started
 - **Book a Move**: Visit [The Local Pros](https://thelocalpros.ca) to request a free quote via our contact form.
-- **Contact Us**: Call [+1 778-658-6797](tel:+17786586797) or email [info@thelocalpros.ca](mailto:info@thelocalpros.ca).
+- **Contact Us**: Call [+1 778-200-0082](tel:+17782000082) or email [info@thelocalpros.ca](mailto:info@thelocalpros.ca).
 - **Location**: Vancouver, BC
 
 ## Support Our Business
